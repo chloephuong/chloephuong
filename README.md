@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chloephuong
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning everything about python and data
-- 💞️ I’m looking to collaborate on soem cool projects in data science
+- 💞️ I’m looking to collaborate on some cool projects in data science
 - 📫 Reach out to me through chloephuong09@gmail.com
 
 <!---
